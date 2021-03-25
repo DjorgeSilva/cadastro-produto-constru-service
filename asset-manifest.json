@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/cadastro-produto-constru-service/static/js/main.8436be49.chunk.js",
-    "main.js.map": "/cadastro-produto-constru-service/static/js/main.8436be49.chunk.js.map",
+    "main.js": "/cadastro-produto-constru-service/static/js/main.b13d0fab.chunk.js",
+    "main.js.map": "/cadastro-produto-constru-service/static/js/main.b13d0fab.chunk.js.map",
     "runtime-main.js": "/cadastro-produto-constru-service/static/js/runtime-main.92a17b4f.js",
     "runtime-main.js.map": "/cadastro-produto-constru-service/static/js/runtime-main.92a17b4f.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/cadastro-produto-constru-service/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.d07ae176.chunk.js": "/cadastro-produto-constru-service/static/js/2.d07ae176.chunk.js",
-    "static/js/2.d07ae176.chunk.js.map": "/cadastro-produto-constru-service/static/js/2.d07ae176.chunk.js.map",
+    "static/js/2.75e9b482.chunk.js": "/cadastro-produto-constru-service/static/js/2.75e9b482.chunk.js",
+    "static/js/2.75e9b482.chunk.js.map": "/cadastro-produto-constru-service/static/js/2.75e9b482.chunk.js.map",
     "index.html": "/cadastro-produto-constru-service/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/cadastro-produto-constru-service/static/css/2.4c97ca4f.chunk.css.map",
-    "static/js/2.d07ae176.chunk.js.LICENSE.txt": "/cadastro-produto-constru-service/static/js/2.d07ae176.chunk.js.LICENSE.txt",
+    "static/js/2.75e9b482.chunk.js.LICENSE.txt": "/cadastro-produto-constru-service/static/js/2.75e9b482.chunk.js.LICENSE.txt",
     "static/media/logo.b80e7ac3.png": "/cadastro-produto-constru-service/static/media/logo.b80e7ac3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.92a17b4f.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.d07ae176.chunk.js",
-    "static/js/main.8436be49.chunk.js"
+    "static/js/2.75e9b482.chunk.js",
+    "static/js/main.b13d0fab.chunk.js"
   ]
 }
